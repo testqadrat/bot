@@ -404,7 +404,7 @@ def get_request():
 
         return jsonify(req)
 
-    return f"<h1>Request count: {request_count}<h1>"
+    return f"<ul><li>P</li><li>E</li><li>P</li><li>E</li></ul>"
 
 
 if __name__ == "__main__":
