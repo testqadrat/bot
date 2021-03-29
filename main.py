@@ -7,7 +7,7 @@ from User import User
 from Theme import Theme
 import os
 
-#token = os.environ.get("TOKEN")
+token = os.environ.get("TOKEN")
 url = f"https://api.telegram.org/bot{token}/"
 
 themes_file = "themes.json"
