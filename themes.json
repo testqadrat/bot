@@ -1,0 +1,86 @@
+{
+    "human body": {
+        "man": {
+            "Перевод": "мужчина",
+            "Пример": "A man without a palate isn't a man."
+        },
+        "woman": {
+            "Перевод": "женщина",
+            "Пример": "Never tell a woman she's mad."
+        },
+        "body": {
+            "Перевод": "тело",
+            "Пример": "Only the machines kept his body working."
+        },
+        "head": {
+            "Перевод": "голова",
+            "Пример": "She leaned her head on his shoulder."
+        },
+        "shoulder": {
+            "Перевод": "плечо",
+            "Пример": "He patted her shoulder again."
+        },
+        "arm": {
+            "Перевод": "рука",
+            "Пример": "On his arm he carried a small basket."
+        },
+        "hand": {
+            "Перевод": "рука",
+            "Пример": "He moved his hand over her hair."
+        },
+        "stomach": {
+            "Перевод": "живот",
+            "Пример": "Her stomach grumbled loudly again."
+        },
+        "back": {
+            "Перевод": "спина",
+            "Пример": "He wants to heal his back."
+        },
+        "leg": {
+            "Перевод": "нога",
+            "Пример": "How is your leg?"
+        }
+    },
+    "birds": {
+        "robin": {
+            "Перевод": "дрозд",
+            "Пример": "They saw the mother robin flying about, and crying to her mate."
+        },
+        "jay": {
+            "Перевод": "сойка",
+            "Пример": "The largest is the great emerald bird, about the size of the common jay."
+        },
+        "hummingbird": {
+            "Перевод": "колибри",
+            "Пример": "I had never seen a hummingbird here in my entire life."
+        },
+        "crow": {
+            "Перевод": "ворон",
+            "Пример": "Today she would have to eat crow along with the dust."
+        },
+        "seagull": {
+            "Перевод": "чайка",
+            "Пример": "Even the squawk of a seagull above my head sounded like it had been drafted in for a sound effect."
+        },
+        "sparrow": {
+            "Перевод": "воробей",
+            "Пример": "The first sparrow of spring!"
+        },
+        "woodpecker": {
+            "Перевод": "дятел",
+            "Пример": "Only a woodpecker tapping."
+        },
+        "swallow": {
+            "Перевод": "ласточка",
+            "Пример": "Then the bird erects its long neck to swallow the selected food."
+        },
+        "owl": {
+            "Перевод": "сова",
+            "Пример": "I got the owl so's you'd know we give a hoot."
+        },
+        "hawk": {
+            "Перевод": "сокол",
+            "Пример": "She was far too conniving—more a hawk than a lark."
+        }
+    }
+}
