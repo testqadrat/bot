@@ -242,13 +242,8 @@ utc_moscow = datetime.timezone(datetime.timedelta(hours=3))
 
 bot = Bot(token, url)
 
-request_count = 0
-
-
 @app.route("/", methods=["GET", "POST"])
 def get_request():
-    global request_count
-    request_count += 1
 
     # Принят POST-запрос
     if request.method == "POST":
